@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://github.com/TiaGoiNsaNy/TiaGoiNsaNy/blob/main/NewLogo.png">
-<br><h1 align="left">:zap: <b>|</b> TiaGoiNsaNy:</h1>
+<br><h1 align="left">:zap: <b>|</b> "Moment":</h1>
 <h3 align="left">:gem: Programador e Designer :gem:</h3>
 <ul>
     <li>Meu nome real é Raphael, mais conhecido como "Moment". :boy:</li>
